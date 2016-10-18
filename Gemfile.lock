@@ -105,8 +105,6 @@ DEPENDENCIES
   middleman (~> 4.1)
   middleman-blog
   redcarpet (~> 3.3, >= 3.3.3)
-  tzinfo-data
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.13.3
