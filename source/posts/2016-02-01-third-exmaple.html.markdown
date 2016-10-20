@@ -1,5 +1,5 @@
 ---
-title: Second Example
+title: Third Example
 date: 2016-02-01
 tags: example, nathan
 ---
